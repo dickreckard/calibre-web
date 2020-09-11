@@ -304,3 +304,15 @@ div.log {
   padding: 0.5em;
 }
 
+/* download button addition.. */
+.wholeline{
+	width:100%;
+	margin-bottom:25px;
+	margin-top:20px;
+}
+.downalles{
+	color:#ce0707;
+	font-size:22px;
+	text-decoration:underline;
+	text-decoration-style:wavy;
+}
